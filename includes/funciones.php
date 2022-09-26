@@ -3,7 +3,7 @@
 function ObtenerServicios(){
     try{
 
-        //Importar una conexión
+        //Importar una conexión de BD
 
         require 'database.php';
 
